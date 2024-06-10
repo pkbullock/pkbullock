@@ -12,6 +12,7 @@ Activities
   -  Tinkering with my website to give it a face lift.
   -  Writing blogs
   -  Making things with 3D Printer, my kids gave me a list
+  -  Digital Drawing and Animation with Procreate/Procreate Dreams
 
 - 📫 How to reach me:
   - Website: www.pkbullock.com
@@ -19,9 +20,13 @@ Activities
   - LinkedIn: https://linkedin/in/pkbullock
   
 - 🌱 I’m currently learning
-  - [AI-102 Exam](https://learn.microsoft.com/en-us/certifications/exams/ai-102?WT.mc_id=M365-MVP-5003816) and materials
-  - Frontend web design improving skills and learning more indepth design topics
+  
   - [Microsoft Graph Connectors](https://learn.microsoft.com/en-us/microsoftsearch/connectors-overview?WT.mc_id=M365-MVP-5003816), [Teams Toolkit](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?WT.mc_id=M365-MVP-5003816) Message Extensions
+  - Working on Copilot for Microsoft 365 Solution Samples, and experiments
+  - Frontend web design improving skills and learning more indepth design topics - applying by to a new DocFX Theme from the PnP Team
+
+- ✅ Done
+  - [AI-102 Exam](https://learn.microsoft.com/en-us/certifications/exams/ai-102?WT.mc_id=M365-MVP-5003816) and materials - PASSED
 
 - 😄 Pronouns: he/him
 - 💬 Ask me about, development, community, cool things, reach out and find out...
