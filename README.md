@@ -2,17 +2,18 @@ Hello,
 
 I'm **Paul Bullock**
 
-A Dual Microsoft MVP in M365 Development and Apps & Services categories, SharePoint Enthusiast and Developer, Modern Workplace Architect @ Avanade UK&I
+A Microsoft MVP in Microsoft 365 Development and Microsoft 365 Copilot categories, SharePoint, Copilot Enthusiast and Developer, Modern Workplace Architect @ Avanade UK&I
 
 Activities
 
 - 🔭 I’m currently working on 
-  -  Writing documentation for PnP Framework
+  - Working on Copilot for Microsoft 365 Solution Samples, and experiments
   -  Maintaining PnP Script Samples as the repository owner
   -  Tinkering with my website to give it a face lift.
   -  Writing blogs
   -  Making things with 3D Printer, my kids gave me a list
   -  Digital Drawing and Animation with Procreate/Procreate Dreams
+  -  Writing documentation for PnP Framework
 
 - 📫 How to reach me:
   - Website: www.pkbullock.com
@@ -20,9 +21,9 @@ Activities
   - LinkedIn: https://linkedin/in/pkbullock
   
 - 🌱 I’m currently learning
-  
+
+  - Cpilot Studio and Teams Toolkit Copilot extensibility - this never stops lol 
   - [Microsoft Graph Connectors](https://learn.microsoft.com/en-us/microsoftsearch/connectors-overview?WT.mc_id=M365-MVP-5003816), [Teams Toolkit](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/teams-toolkit-fundamentals?WT.mc_id=M365-MVP-5003816) Message Extensions
-  - Working on Copilot for Microsoft 365 Solution Samples, and experiments
   - Frontend web design improving skills and learning more indepth design topics - applying by to a new DocFX Theme from the PnP Team
 
 - ✅ Done
